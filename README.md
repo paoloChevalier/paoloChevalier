@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 - 📚 I'm currently studying applied maths at INSA Rennes
 - 🔭 I’m currently working on heatwaves in CMIP6 and ERA5
