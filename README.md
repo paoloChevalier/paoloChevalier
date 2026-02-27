@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 📚 I'm currently studying applied maths at INSA Rennes
-- 🔭 I’m currently working on heatwaves in CMIP6 and ERA5
+- 📚 I'm currently studying applied maths at INSA Rennes.
+- 🔭 I’m currently working on rare events simulation using AI based weather forecasting models.
 - 📫 How to reach me: paoloo.chevalier@gmail.com
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him.
